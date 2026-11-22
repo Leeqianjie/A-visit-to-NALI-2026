@@ -177,6 +177,10 @@ As a Computer Science student specialising in Computer Networks and Security, th
 
 ---
 
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_My_NALI_2026_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
 ## 🏁 Conclusion
 
 NALI 2026 provided an opportunity to understand how Artificial Intelligence and Information and Communication Technology can contribute to modern education.
