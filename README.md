@@ -171,6 +171,7 @@ As a Computer Science student specialising in Computer Networks and Security, th
 ## 📸 Event Gallery
 
 [NALI 2026 Poster](assets/poster1.jpeg)
+[NALI 2026 Interview](assets/interview.jpeg)
 
 *More event photographs and learning materials will be added soon.*
 
