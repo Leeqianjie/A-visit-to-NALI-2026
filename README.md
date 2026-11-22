@@ -179,9 +179,9 @@ As a Computer Science student specialising in Computer Networks and Security, th
 
 🎬 **NALI 2026 – Video Presentation**
 
-Watch my NALI 2026 video presentation.  
+<small>Watch my NALI 2026 video presentation.</small>  
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_My_NALI_2026_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=xc81q9h_72k)  
-Clicking the button in GitHub will open your YouTube video.
+<small>Clicking the button in GitHub will open your YouTube video.</small>
 
 ---
 
