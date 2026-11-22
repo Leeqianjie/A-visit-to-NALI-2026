@@ -170,10 +170,7 @@ As a Computer Science student specialising in Computer Networks and Security, th
 
 ## 📸 Event Gallery
 
-<!-- Example:
-![NALI 2026 Event](assets/nali-event.jpg)
-![Innovator Exhibition](assets/nali-exhibition.jpg)
--->
+[NALI 2026 Posters](assets/nali-event.jpg)
 
 *More event photographs and learning materials will be added soon.*
 
