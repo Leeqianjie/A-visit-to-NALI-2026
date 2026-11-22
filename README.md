@@ -6,6 +6,8 @@
 
 📅 **Date:** 28–29 October 2026
 
+<img src="images/profile.jpg">
+
 ---
 
 ## 📌 Event Overview
